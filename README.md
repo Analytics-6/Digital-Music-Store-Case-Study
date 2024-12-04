@@ -14,7 +14,7 @@
 ### Project Overview
 Data Analysis project to help optimize business opportunities and answer related questions.
 
-### Link to Chinook dataset:
+### Link to Dataset:
 Download files: https://github.com/lerocha/chinook-database/tree/master/ChinookDatabase/DataSources
 
 ### Tools
